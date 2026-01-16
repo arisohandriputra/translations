@@ -521,7 +521,7 @@
     <string name="settings_sound_ui">Suara UI</string>
     <string name="settings_sound_game">Suara dalam permainan</string>
     <string name="settings_preserveedges">Pertahankan pinggiran</string>
-    <string name="settings_fancybg">Background Indah</string>
+    <string name="settings_fancybg">Latar Indah</string>
     <string name="ci_not_available">Tidak ada data untuk ditampilkan.</string>
     <string name="ci_education_title">Pendidikan</string>
     <string name="ci_health_title">Kesehatan</string>
@@ -549,7 +549,7 @@
     <string name="influence_culture_text">Nilai budaya di kotamu.</string>
     <string name="influence_education_low_text">Sekolah memberikan pendidikan rendah.</string>
     <string name="influence_education_high_text">Pendidikan tinggi diberikan oleh sekolah menengah.</string>
-    <string name="influence_firedep_text">Pengaruh departemen pemadam kebakaran mengurangi kemungkinan kebakaran.</string>
+    <string name="influence_firedep_text">Pengaruh unit damkar mengurangi kemungkinan kebakaran.</string>
     <string name="influence_health_text">Dokter menjaga para penduduk agar tetap sehat.</string>
     <string name="influence_noise_text">Tidak ada yang mau hidup di area bising.</string>
     <string name="influence_park_text">Membuat pendudukmu bahagia dan memungkinkan bangunan menjulang lebih tinggi.</string>
@@ -615,7 +615,7 @@
     <string name="draft_sewerpipe00_text">Mengurangi polusi air dengan membuang limbah ke alam. Menghasilkan pengaruh yang buruk.</string>
     <string name="settings_lowresmapscreenshot">Turunkan resolusi untuk tangkapan layar peta.</string>
     <string name="draft_marina00_title">Marina</string>
-    <string name="draft_marina00_text">Hiburan untuk horang kaya.</string>
+    <string name="draft_marina00_text">Hiburan untuk orang kaya.</string>
     <string name="loadcity_version">Versi %1$,d</string>
     <string name="loadcity_memdialog_title">Tidak punya akses ke memori eksternal</string>
     <string name="loadcity_memdialog_text">Kota akan disimpan di memori internal. Kamu tidak punya akses untuk itu.</string>
@@ -639,11 +639,11 @@
     <string name="dialog_notification_cmdok">Ok</string>
     <string name="draft_nuclearplant00_title">PLTN</string>
     <string name="draft_nuclearplant00_text">Menghasilkan listrik yang lebih besar dengan fusi nuklir. Butuh suplai air yang besar, jika tidak akan meledak</string>
-    <string name="draft_gasplant00_title">PLTG</string>
+    <string name="draft_gasplant00_title">PLTP</string>
     <string name="draft_gasplant00_text">Lebih murah daripada pembangkit listrik lain. Sedikit polusi.</string>
     <string name="draft_carcinema00_title">Bioskop drive-in</string>
     <string name="draft_carcinema00_text">Sedikit hiburan untuk penduduk TheoTown.</string>
-    <string name="notify_lowbudget">Kamu kekurangan dana kota. Kamu disarankan untuk meminjam uang.</string>
+    <string name="notify_lowbudget">Kamu kekurangan dana kota. Kamu disarankan untuk berhutang.</string>
     <string name="settings_rightsidebar">Bar sisi di kanan</string>
     <string name="settings_topstatusbar">Bar status di atas</string>
     <string name="settings_leftminimap">Peta mini di kiri</string>
@@ -714,7 +714,7 @@
     <string name="createcity_cityauthor">Pencipta:</string>
     <string name="about_homepage">Halaman utama</string>
     <string name="oome_title">Tidak cukup memori</string>
-    <string name="oome_text">Maaf, perangkat Anda tidak memiliki ruang RAM yang cukup untuk menjalankan TheoTown.</string>
+    <string name="oome_text">Maaf, perangkat kamu tidak memiliki ruang RAM yang cukup untuk menjalankan TheoTown.</string>
     <string name="createcity_trees">Pohon</string>
     <string name="dialog_closecity_text">Apakah kamu mau menyimpan progresmu sebelum keluar?</string>
     <string name="dialog_closecity_title">Tinggalkan kota</string>
